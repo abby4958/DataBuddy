@@ -1,4 +1,4 @@
-# SQLPal: A Friendly Chatbot for Database Interactions
+# DataBuddy: A Conversational Interface for Database Interactions
 
 Welcome to the GitHub repository on building a natural language SQL chatbot using GPT-4! This project guides you through the development of a chatbot that can interpret natural language queries, generate SQL queries, and fetch results from a SQL database, all in an intuitive and user-friendly way. It utilizes the power of OpenAI's GPT-4 model/mixtral-8x7b-32768 by groq(open-source), integrated with a Streamlit GUI for an enhanced interaction experience.
 
